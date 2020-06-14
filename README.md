@@ -1,6 +1,7 @@
 ## Encryption-Decryption
 
-This is a simple training project from JetBrains Academy.
+This is a training project from JetBrains Academy.
+(Medium level)
 
 In this project:
 * Learn to encrypt and to decrypt messages with a numeric key, using the Caesar or Unicod cypher.
